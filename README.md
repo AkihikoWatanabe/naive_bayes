@@ -93,7 +93,7 @@ from .naive_bayes import (
 )
 
 # load model (MB, MNMAL or TWCNB)
-TWCNB.load("/path/to/load")
+model = TWCNB.load("/path/to/load")
 
 # get test data
 """
