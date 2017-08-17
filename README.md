@@ -14,6 +14,11 @@ If you want to know more about TWCNB, see the following paper:
 	http://machinelearning.wustl.edu/mlpapers/paper_files/icml2003_RennieSTK03.pdf
 ```
 
+Finally, you can use some feature selection methods as follows:
+
+* feature selection using word frequency (FS_FREQ)
+* feature selection using PMI (FS_PMI)
+
 # Requirements
 
 ```
